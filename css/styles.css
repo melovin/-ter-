@@ -10,18 +10,28 @@
   padding-top:55px
 }
 
-    .verticalText2 {
-        word-wrap: break-word;
-          font-size: 12px;
-        }
-        .mydiv2 {
-          height: 50px;
-          width: 10px;
-          padding-left:700px;
-          padding-top:40px
-          
-        }
+.verticalText2 {
+    word-wrap: break-word;
+      font-size: 12px;
+    }
+.mydiv2 {
+  height: 50px;
+  width: 10px;
+  padding-left:700px;
+  padding-top:40px
+  
+}
 
-   
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
 
 
